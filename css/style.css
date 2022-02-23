@@ -1,0 +1,9 @@
+.navbar-toggler {
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .mb-rspv {
+    margin-bottom: 0.7rem;
+  }
+}
